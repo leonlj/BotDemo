@@ -1,0 +1,5 @@
+global
+http://wechatwebapp.azurewebsites.net/weixin
+
+Mooncake
+http://forbo1.chinacloudsites.cn/weixin
