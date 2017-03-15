@@ -1,0 +1,42 @@
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Bot Application1.dll.config
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Bot Application1.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Bot Application1.pdb
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Autofac.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Chronic.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.Bot.Builder.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.Bot.Connector.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Newtonsoft.Json.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\System.Net.Http.Formatting.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\System.Web.Http.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\System.Web.Http.WebHost.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Autofac.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.Bot.Builder.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.Bot.Connector.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\Newtonsoft.Json.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\System.Net.Http.Formatting.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\System.Web.Http.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\System.Web.Http.WebHost.xml
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\obj\Release\BotApp.csprojResolveAssemblyReference.cache
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\obj\Release\Bot Application1.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\obj\Release\Bot Application1.pdb
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\wzp\Documents\Visual Studio 2015\Projects\BotApp\BotApp\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
