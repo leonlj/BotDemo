@@ -22,4 +22,5 @@ Now, bot DL V3.0 has been released with performance improvment. But there are so
 
 ## 7. Connect bot with powerbi and use card mode to show different form and information [BotAppWithPowerBi_CardMode](https://github.com/leonlj/BotDemo/tree/master/BotAppWithPowerBi_CardMode)
 In powerbi+bot hackfest, the partners use bot to connect with PowerBi embedded link. The user can talk to bot to get Bi forms, in additon, in bot it also use card mode to interact with user. Good example for card mode and connect power bi. 
+![](https://github.com/leonlj/BotDemo/blob/master/BotAppWithPowerBi_CardMode/bot%2Bpowerbi%2Bcardmode.PNG)
 
