@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcVuX0x0whkSyw/02NnhpNwAAAAACAAAAAAAQZgAAAAEAACAAAAAmam+diKYIl6cpuT8WcMOOORLTnCdqRMnqlhgGoNymhgAAAAAOgAAAAAIAACAAAACtPSnMwK615689vtcxXjrPEq+w4ZYof2d76OJaOMsnlIAAAAAXIL2/AhO0eBokiO4ow6lHYiK7XvKTI+CLQAqSD7UHITBTl6BsxJlenSFBCFTelVILY0h+fexUHLJUctI4PSs3PgEwvl8ChoEHi7fHyxReaGrULrdhMA34yCUjS6/fwpmglxXXHB2VK5dfZIYwWwrJuk2q8oWZuwd6Kzy4A+bsF0AAAAA6wVdxSNgDHw4b8bUKzVAaswcL327a4ti9Cq8+W7QLJ/pjNT5vXs/RHxJ542fBSPRAOaJ2fmXBvIASOPk/o/E1</EncryptedPassword>
+  </PropertyGroup>
+</Project>
