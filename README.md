@@ -20,3 +20,6 @@ In this example, it used bot FW direct line v1.1 rest API to connect WeChat offi
 ## 6. bot direct line V3.0 C# SDK based on Rest API [BotDirectLineV3RestfulAPI_C#_SDK_withDemo](https://github.com/leonlj/BotDemo/tree/master/BotDirectLineV3RestfulAPI_C%23_SDK_withDemo/BotDemo2)
 Now, bot DL V3.0 has been released with performance improvment. But there are some changes in rest API comparing with V1.1 DL. To easily use bot DL V3 to connect WeChat, native app, there is C# SDK that encapsulates raw rest api with class. You can use the SDK in your app to connect with your bot in DL V3 
 
+## 7. Connect bot with powerbi and use card mode to show different form and information [BotAppWithPowerBi_CardMode](https://github.com/leonlj/BotDemo/tree/master/BotAppWithPowerBi_CardMode)
+In powerbi+bot hackfest, the partners use bot to connect with PowerBi embedded link. The user can talk to bot to get Bi forms, in additon, in bot it also use card mode to interact with user. Good example for card mode and connect power bi. 
+
