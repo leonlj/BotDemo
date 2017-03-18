@@ -1,4 +1,4 @@
-﻿## Demo for using bot direct line V1.1 rest APIs to connect bot with WeChat offical account
+## Demo for using bot direct line V1.1 rest APIs to connect bot with WeChat offical account
 
 In bot frameowrk there is channel - direcline that can help to connect the bot to any canvas like native app, Wechat offical account, Wechat enterprise account,IoT device etc. This sample is based on WeiXinSDK.net C# open source code for Wechat offical account, we used bot DL to connect a WeChat offical account backend to a bot. The message received from WeChat can be transfer to bot. 
 
