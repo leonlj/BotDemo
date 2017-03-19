@@ -1,4 +1,4 @@
-﻿## bot framework Direct line V3 C# SDK with test demo
+## bot framework Direct line V3 C# SDK with test demo
 
 bot direct line V3 has been released, in V3 the performance has been improved. For more detail of V3, please refer to [Direct Line 3.0 REST API](https://docs.botframework.com/en-us/restapi/directline3/#navtitle)
 
