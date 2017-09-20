@@ -1,3 +1,7 @@
-# 微信公众号后台搭建DL3.0到bot的链接 #
+# 微信公众号后台搭建DL3.0到bot的链接, C#的例子，其他语言开发的bot类似 #
 
-民警提示 请点击上面的星星↑ star↑
+Please add your bot information in MSbot.cs 
+
+            string botFrom = "your bot handler";
+            string botConnectorKey = "bot direct line secret key";
+
