@@ -25,3 +25,8 @@ Now, bot DL V3.0 has been released with performance improvment. But there are so
 In powerbi+bot hackfest, the partners use bot to connect with PowerBi embedded link. The user can talk to bot to get Bi forms, in additon, in bot it also use card mode to interact with user. Good example for card mode and connect power bi. 
 ![](https://github.com/leonlj/BotDemo/blob/master/BotAppWithPowerBi_CardMode/bot%2Bpowerbi%2Bcardmode.PNG)
 
+## 8. Use bot direct line v3.0 to connect with WeChat public account demo. Please replace your bot information in follow code in MSBot.cs
+
+    string botFrom = "bot handler";
+    string botConnectorKey = "bot direct line kehy";
+
